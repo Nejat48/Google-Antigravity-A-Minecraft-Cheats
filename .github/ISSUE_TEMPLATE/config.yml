@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 🔒 Security Policy
+    url: https://github.com/Nejat48/Google-Antigravity-A-Minecraft-Cheats/blob/main/SECURITY.md
+    about: Read our security policy and important safety warnings
+  - name: 📖 Documentation
+    url: https://github.com/Nejat48/Google-Antigravity-A-Minecraft-Cheats/blob/main/README.md
+    about: Check the README for installation and usage instructions
+  - name: ❓ FAQ
+    url: https://github.com/Nejat48/Google-Antigravity-A-Minecraft-Cheats/blob/main/FAQ.md
+    about: Frequently Asked Questions
